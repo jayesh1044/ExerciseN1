@@ -1,0 +1,22 @@
+{
+  "name": "mlabheroku",
+  "version": "1.0.0",
+  "description": "Mlab heroku Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jayesh Patil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2"
+  },
+  "engines": {
+    "node": "10.14.1"
+  }
+}
